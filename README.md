@@ -1,2 +1,1 @@
-# scrum_project
-scrum_project
+# left-over
